@@ -1,4 +1,23 @@
-### Hi there 👋
+# Hello, I'm Mitali 👋
+
+I'm a self-taught developer with a passion for learning new skills and technologies. I have experience in web development, particularly with React, Redux and Tailwind CSS. I love to create efficient and user-friendly web applications.
+
+## 🔭 Projects
+- **[Little Spoon](https://little-spoon.azurewebsites.net/)**: A food delivery web application with beautiful UI that leverages Swiggy's API to fetch restaurants and food items information dynamically.
+
+- **[Netflix Clone](https://netflixgpt.azurewebsites.net/)**: A replica of Netflix that display movies, play trailers, search and recommend movies using Azure's OpenAI GPT model.
+
+## 🌱 I’m currently learning
+- **Azure**: Expanding my cloud knowledge by learning about Azure services and deployments.
+- **Advanced React**: Deepening my understanding of React framework to enhance my web development skills.
+
+## 📫 How to reach me
+- Feel free to check out my projects here on GitHub.
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/heymitali/) or drop a mail, happy to talk.
+
+## ⚡ Fun fact
+- When I'm not coding, you can find me on a shopping spree 🛍️ or exploring the outdoors! 🏕️
+- I prefer spaces over tabs when coding! 🚀
 
 <!--
 **heymitali/heymitali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
