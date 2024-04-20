@@ -7,9 +7,13 @@ I'm a self-taught developer with a passion for learning new skills and technolog
 
 - **[Netflix Clone](https://netflixgpt.azurewebsites.net/)**: A replica of Netflix that display movies, play trailers, search and recommend movies using Azure's OpenAI GPT model.
 
+- **[React Flow Renderer](https://react-flow.azurewebsites.net/)**: Built a web app using React Flow library which provides CUD (Create, Update, Delete) operations for building node-based editors and interactive diagrams.
+
 ## 🌱 I’m currently learning
-- **Azure**: Expanding my cloud knowledge by learning about Azure services and deployments.
+- **Node.js**: Learning about Node.js and Backend Development.
 - **Advanced React**: Deepening my understanding of React framework to enhance my web development skills.
+- **Azure**: Expanding my cloud knowledge by learning about Azure services and deployments.
+
 
 ## 📫 How to reach me
 - Feel free to check out my projects here on GitHub.
