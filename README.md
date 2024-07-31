@@ -3,17 +3,13 @@
 I'm a self-taught developer with a passion for learning new skills and technologies. I have experience in web development, particularly with React, Redux and Tailwind CSS. I love to create efficient and user-friendly web applications.
 
 ## 🔭 Projects
+- **[Once Upon A Vacation](https://once-upon-a-vacation.azurewebsites.net/)**: A travel platform meticulously crafted with Node.js, Express.js, and MongoDB. Discover dream destinations, book seamless tours, and embark on unforgettable journeys — all in one place! 🌎✈️
+
 - **[Little Spoon](https://little-spoon.azurewebsites.net/)**: A food delivery web application with beautiful UI that leverages Swiggy's API to fetch restaurants and food items information dynamically.
 
 - **[Netflix Clone](https://netflixgpt.azurewebsites.net/)**: A replica of Netflix that display movies, play trailers, search and recommend movies using Azure's OpenAI GPT model.
 
 - **[React Flow Renderer](https://react-flow.azurewebsites.net/)**: Built a web app using React Flow library which provides CUD (Create, Update, Delete) operations for building node-based editors and interactive diagrams.
-
-## 🌱 I’m currently learning
-- **Node.js**: Learning about Node.js and Backend Development.
-- **Advanced React**: Deepening my understanding of React framework to enhance my web development skills.
-- **Azure**: Expanding my cloud knowledge by learning about Azure services and deployments.
-
 
 ## 📫 How to reach me
 - Feel free to check out my projects here on GitHub.
