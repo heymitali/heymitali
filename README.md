@@ -17,7 +17,7 @@ I'm a self-taught developer with a passion for learning new skills and technolog
 
 ## ⚡ Fun fact
 - When I'm not coding, you can find me on a shopping spree 🛍️ or exploring the outdoors! 🏕️
-- I prefer spaces over tabs when coding! 🚀
+- I prefer spaces over tabs! 🚀
 
 <!--
 **heymitali/heymitali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
